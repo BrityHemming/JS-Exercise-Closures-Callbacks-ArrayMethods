@@ -27,7 +27,7 @@ There are layers upon layers of nested functions within the game of baseball. Yo
 
 ### Task 1 - Set Up Project and Tests
 
-1. Fork repo and add TL as collaborator on Github
+1. Fork repo
 2. Clone _your_ fork (not Lambda's repo by mistake!)
 3. `cd` into your newly cloned repository
 1. Create a new branch by typing `git checkout -b <firstName-lastName>`
